@@ -30,6 +30,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/harshraj0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshraj0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -62,4 +63,8 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
