@@ -31,6 +31,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harshraj0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshraj0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -71,5 +72,6 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshraj0/LEETCODE/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
