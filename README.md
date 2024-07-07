@@ -35,6 +35,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [0053-maximum-subarray](https://github.com/harshraj0/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/harshraj0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/harshraj0/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshraj0/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/harshraj0/LEETCODE/tree/master/0162-find-peak-element) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -46,6 +47,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/harshraj0/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/harshraj0/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshraj0/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
