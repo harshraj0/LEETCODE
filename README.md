@@ -38,6 +38,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [0118-pascals-triangle](https://github.com/harshraj0/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshraj0/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/harshraj0/LEETCODE/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -53,6 +54,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -76,4 +78,12 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/harshraj0/LEETCODE/tree/master/0162-find-peak-element) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
