@@ -42,6 +42,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -65,6 +66,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [0054-spiral-matrix](https://github.com/harshraj0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
