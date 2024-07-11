@@ -41,6 +41,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/harshraj0/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
@@ -76,6 +77,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1603-running-sum-of-1d-array](https://github.com/harshraj0/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
