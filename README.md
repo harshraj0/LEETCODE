@@ -45,6 +45,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshraj0/LEETCODE/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,8 +94,13 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
+| [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
