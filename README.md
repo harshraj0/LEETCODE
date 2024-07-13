@@ -45,6 +45,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/harshraj0/LEETCODE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
