@@ -41,6 +41,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [1505-create-target-array-in-the-given-order](https://github.com/harshraj0/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/harshraj0/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
@@ -74,6 +75,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshraj0/LEETCODE/tree/master/0054-spiral-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/harshraj0/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
