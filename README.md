@@ -30,6 +30,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshraj0/LEETCODE/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/harshraj0/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/harshraj0/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
