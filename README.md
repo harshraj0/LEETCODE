@@ -47,6 +47,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [1646-kth-missing-positive-number](https://github.com/harshraj0/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/harshraj0/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshraj0/LEETCODE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
@@ -87,6 +88,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/harshraj0/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/harshraj0/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
