@@ -121,6 +121,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshraj0/LEETCODE/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -134,4 +135,12 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/harshraj0/LEETCODE/tree/master/1908-recyclable-and-low-fat-products) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
