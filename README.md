@@ -142,6 +142,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
+| [1054-complement-of-base-10-integer](https://github.com/harshraj0/LEETCODE/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
