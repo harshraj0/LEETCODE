@@ -125,6 +125,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0007-reverse-integer](https://github.com/harshraj0/LEETCODE/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/harshraj0/LEETCODE/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/harshraj0/LEETCODE/tree/master/0263-ugly-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshraj0/LEETCODE/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
