@@ -50,6 +50,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [1677-matrix-diagonal-sum](https://github.com/harshraj0/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/harshraj0/LEETCODE/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/harshraj0/LEETCODE/tree/master/1833-find-the-highest-altitude) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshraj0/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/harshraj0/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshraj0/LEETCODE/tree/master/2876-number-of-employees-who-met-the-target) |
