@@ -42,6 +42,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshraj0/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/harshraj0/LEETCODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshraj0/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/harshraj0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | ------- |
 | [0001-two-sum](https://github.com/harshraj0/LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/harshraj0/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/harshraj0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -115,6 +117,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/harshraj0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
 ## Counting
