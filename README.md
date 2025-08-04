@@ -31,6 +31,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshraj0/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/harshraj0/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -100,6 +101,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/harshraj0/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshraj0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshraj0/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -157,4 +159,8 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/harshraj0/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
