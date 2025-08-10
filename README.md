@@ -49,6 +49,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshraj0/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/harshraj0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1505-create-target-array-in-the-given-order](https://github.com/harshraj0/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/harshraj0/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/harshraj0/LEETCODE/tree/master/1646-kth-missing-positive-number) |
@@ -119,6 +120,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshraj0/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshraj0/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/harshraj0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1646-kth-missing-positive-number](https://github.com/harshraj0/LEETCODE/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
