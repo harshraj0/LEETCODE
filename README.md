@@ -46,6 +46,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshraj0/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/harshraj0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/harshraj0/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshraj0/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -97,6 +98,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/harshraj0/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/harshraj0/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/harshraj0/LEETCODE/tree/master/1833-find-the-highest-altitude) |
