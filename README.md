@@ -111,6 +111,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0027-remove-element](https://github.com/harshraj0/LEETCODE/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshraj0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshraj0/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/harshraj0/LEETCODE/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshraj0/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/harshraj0/LEETCODE/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
