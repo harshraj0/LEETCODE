@@ -60,6 +60,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [1833-find-the-highest-altitude](https://github.com/harshraj0/LEETCODE/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/harshraj0/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/harshraj0/LEETCODE/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/harshraj0/LEETCODE/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/harshraj0/LEETCODE/tree/master/3226-minimum-number-game) |
@@ -150,6 +151,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0231-power-of-two](https://github.com/harshraj0/LEETCODE/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/harshraj0/LEETCODE/tree/master/0263-ugly-number) |
 | [1448-maximum-69-number](https://github.com/harshraj0/LEETCODE/tree/master/1448-maximum-69-number) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshraj0/LEETCODE/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -179,4 +181,8 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshraj0/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/harshraj0/LEETCODE/tree/master/1448-maximum-69-number) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/harshraj0/LEETCODE/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
