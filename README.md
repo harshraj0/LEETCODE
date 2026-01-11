@@ -51,6 +51,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0540-single-element-in-a-sorted-array](https://github.com/harshraj0/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/harshraj0/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/harshraj0/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/harshraj0/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/harshraj0/LEETCODE/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1505-create-target-array-in-the-given-order](https://github.com/harshraj0/LEETCODE/tree/master/1505-create-target-array-in-the-given-order) |
@@ -85,6 +86,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | [0217-contains-duplicate](https://github.com/harshraj0/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/harshraj0/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshraj0/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/harshraj0/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## Matrix
 |  |
 | ------- |
@@ -198,6 +200,7 @@ MY SOLVED AND ACEEPTED SUBMISSIONS OF LEETCODE.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshraj0/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/harshraj0/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/harshraj0/LEETCODE/tree/master/0904-fruit-into-baskets) |
 ## Monotonic Queue
 |  |
 | ------- |
